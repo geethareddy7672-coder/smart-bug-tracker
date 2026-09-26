@@ -41,7 +41,8 @@ smart_bug_tracker/
 ├── README.md
 ├── .gitignore
 └── venv/
+```
+
 ## 📸 Application Preview
 
 ![Smart Bug Tracker Dashboard](dashboard.png)
-
