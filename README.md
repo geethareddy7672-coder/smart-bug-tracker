@@ -44,4 +44,4 @@ smart_bug_tracker/
 ## 📸 Application Preview
 
 ![Smart Bug Tracker Dashboard](dashboard.png)
-## 📸 Application Preview
+
